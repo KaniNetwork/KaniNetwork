@@ -1,4 +1,6 @@
 # KaniNetwork
+## PLEASE DO NOT CREATE ISSUE ONE OF OUR SYSTEM USE THEM AND IS IN WIP
+
 ### FR : 
 Bonjour et bienvenue sur le Kani Network:tm:, un projet de [@NewGlace](https://github.com/NewGlace) pour y créer des bots Discord originaux avec l'aide d'amis
 
