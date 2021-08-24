@@ -6,6 +6,9 @@ labels: suggestion
 assignees: ''
 
 ---
+<!--
+  Please add the label of the service the suggestion is for
+-->
 
 **Describe your suggestion**
 A clear and concise description of what you want to happen.
