@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Suggest a custom lang for Werewolf Game on KaniShiel
-title: "Suggestion template"
+title: "Suggest template"
 labels: suggestion
 assignees: ''
 
