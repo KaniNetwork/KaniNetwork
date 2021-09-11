@@ -1,5 +1,5 @@
 # KaniNetwork
-## Issues are locked for now because one of our system us them and it is work in progress
+## Issues are locked for now because one of our system use them and it is work in progress
 
 ### ![FR](https://cdn.discordapp.com/emojis/829641067912495184.png?size=40) 
 Bonjour et bienvenue sur le Kani:tm: Network, un projet de [@NewGlace](https://github.com/NewGlace) pour y créer des bots Discord originaux avec l'aide d'amis
