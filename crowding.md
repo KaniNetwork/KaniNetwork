@@ -3,6 +3,8 @@ It's a translation website, just a free service we use.
 
 # How to use it ? 
 
+Go at https://crowdin.com/project/kanishiel
+
 ![connection](https://i.imgur.com/IaWNh3y.png)
 
 First, connect or create an account
